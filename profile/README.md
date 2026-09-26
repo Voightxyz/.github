@@ -11,10 +11,17 @@
 
 <p align="center">
   <a href="https://voight.xyz">Website</a> ·
+  <a href="https://voight.xyz/company">Company</a> ·
   <a href="https://docs.voight.xyz">Docs</a> ·
   <a href="https://docs.voight.xyz/quickstart">Quickstart</a> ·
   <a href="https://www.npmjs.com/org/voightxyz">npm</a> ·
   <a href="https://x.com/Voightxyz">X</a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@voightxyz/sdk"><img src="https://img.shields.io/npm/dm/%40voightxyz%2Fsdk?label=%40voightxyz%2Fsdk%20downloads&color=555" alt="@voightxyz/sdk monthly downloads" /></a>
+  <a href="https://pypi.org/project/bitfrost/"><img src="https://img.shields.io/pypi/dm/bitfrost?label=bitfrost%20downloads&color=555" alt="bitfrost monthly downloads" /></a>
+  <a href="https://www.npmjs.com/package/@voightxyz/agents-mcp"><img src="https://img.shields.io/npm/v/%40voightxyz%2Fagents-mcp?label=agents-mcp&color=555" alt="@voightxyz/agents-mcp version" /></a>
 </p>
 
 ---
@@ -62,4 +69,6 @@ Events from every package land in the same dashboard, under the same agent. Thre
 
 ## Company
 
-Voight is built by Galaxyhub Labs Inc. (d/b/a Voight). [Privacy and terms](https://docs.voight.xyz/legal/privacy).
+Voight is built by Galaxyhub Labs Inc. (d/b/a Voight), a Delaware company founded in 2025 by [Dangel Rodriguez](https://www.linkedin.com/in/seenfinity/), a three-time hackathon winner, with a team of four across Spain and London. Voight is part of Xiaomi Orbit and Z.ai Startups and is supported by Nosana and Metaplex.
+
+The full story, with dates, numbers and evidence: [voight.xyz/company](https://voight.xyz/company). Contact: team@voight.xyz. [Privacy and terms](https://docs.voight.xyz/legal/privacy).
