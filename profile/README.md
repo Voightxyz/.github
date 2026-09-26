@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://voight.xyz"><img src="https://raw.githubusercontent.com/Voightxyz/.github/main/profile/assets/banner.png" alt="Voight: built for the agentic era" width="100%" /></a>
+  <a href="https://voight.xyz"><img src="https://raw.githubusercontent.com/Voightxyz/.github/main/profile/assets/banner-hands.png" alt="Voight: built for the agentic era" width="100%" /></a>
 </p>
 
 <h1 align="center">Voight</h1>
